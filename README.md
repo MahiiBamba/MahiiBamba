@@ -49,10 +49,11 @@ Feel free to reach out if you want to collaborate, discuss AI ideas, or just cha
 
 ---
 
+
 ## 🐾 GitHub Stats
 
-![Mansi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahiiBamba&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahiiBamba&layout=compact&theme=tokyonight)
+![Mansi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MahiiBamba&show_icons=true&theme=tokyonight&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahiiBamba&layout=compact&theme=tokyonight&langs_count=10&card_width=400)
 
 ---
 
