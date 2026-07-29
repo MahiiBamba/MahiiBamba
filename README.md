@@ -93,8 +93,6 @@ Curiosity Engine....... ███████████ MAX
 
 Learning Mode.......... ACTIVE
 
-Coffee Level........... ███████░░░░ 72%
-
 Bug Detector........... ENABLED
 
 Neural Activity........ RUNNING
