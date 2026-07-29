@@ -36,7 +36,6 @@ Loading Vector Database.......... ███████████ 100%
 
 Authentication Successful ✔
 
-Welcome back, Mansi.
 ```
 
 ---
