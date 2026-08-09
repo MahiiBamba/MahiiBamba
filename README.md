@@ -164,9 +164,9 @@ MISSION LOG
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MahiiBamba&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api?username=MahiiBamba&show_icons=true&theme=chartreuse-dark&hide_border=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MahiiBamba&layout=donut&theme=chartreuse-dark&hide_border=true"/>
+<img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MahiiBamba&layout=donut&theme=chartreuse-dark&hide_border=true"/>
 
 </div>
 
